@@ -4,9 +4,9 @@ dependencies:
   version: 1.2.2
 - name: frontend
   repository: http://localhost:8080
-  version: 1.2.2
+  version: 1.2.1
 - name: mongodb
-  repository: https://kubernetes-charts.storage.googleapis.com
-  version: 7.8.6
-digest: sha256:a7f90b589c79fcd5aea9166469a6b0a61a2832de42e8e8235b11c0d28f9a5296
-generated: "2020-02-27T12:13:40.47324698+01:00"
+  repository: https://charts.helm.sh/stable
+  version: 7.8.10
+digest: sha256:797ca53edc0dc51e4cf33bf25d77effe6037d7146872aebf492a066898dbf521
+generated: "2021-07-11T16:40:15.5614215+07:00"

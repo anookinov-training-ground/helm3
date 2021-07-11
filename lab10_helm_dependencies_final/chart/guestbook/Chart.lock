@@ -4,9 +4,9 @@ dependencies:
   version: 1.2.2
 - name: frontend
   repository: http://localhost:8080
-  version: 1.2.2
+  version: 1.2.1
 - name: database
   repository: http://localhost:8080
   version: 1.2.2
-digest: sha256:6a58a52c55ee4296ec43ffe1985ec1147186025c4d9724bcbe5c5354a13df635
-generated: "2020-02-27T12:16:00.991397779+01:00"
+digest: sha256:70e051b28868a0f7bcd6bf2869a7ce099ed1dbd46e0f7b17dd8620f48eef1cd3
+generated: "2021-07-11T15:56:04.8945139+07:00"
